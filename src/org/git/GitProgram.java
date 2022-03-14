@@ -9,6 +9,7 @@ public class GitProgram {
 		int b=20;
 				int c=a+b;
 		System.out.println("Print value" +c);
+		System.out.println("welcome");
 	}
 	public static void main(String[] args) {
 		
